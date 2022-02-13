@@ -1,0 +1,82 @@
+/* All Creative Fonts Styles */
+/* HTML Stylesheet: <link rel="stylesheet" href="fonts/fonts.family.css"> */
+/* CSS Stylesheet: @import url("../fonts/fonts.family.css"); */
+/* Font Face : "src" & "font-family" */
+
+/*
+	Fonts Index
+    1. Gilroy
+    2. Variex
+    3. Colus
+    4. Omegle
+	5. RomateHood
+    6. Housttely
+    7. Impacted
+    8. DominoJack
+    9. Toxico
+   10. Prototype
+   11. Evogria
+   12. Android
+*/
+
+/* Source Files */
+
+@font-face {
+    font-family: "Android";
+    src: url("Android.ttf");
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("Gilroy.otf");
+}
+
+@font-face {
+    font-family: "Variex";
+    src: url("Variex.ttf");
+}
+
+@font-face {
+    font-family: "Colus";
+    src: url("Colus.ttf");
+}
+
+@font-face {
+    font-family: "Omegle";
+    src: url("OmegleStroke.ttf");
+}
+
+@font-face {
+    font-family: "RomateHood";
+    src: url("RomateHood.otf");
+}
+
+@font-face {
+    font-family: "Housttely";
+    src: url("Housttely.ttf");
+}
+
+@font-face {
+    font-family: "Impacted";
+    src: url("Impacted.ttf");
+}
+
+@font-face {
+    font-family: "DominoJack";
+    src: url("DominoJack.otf");
+}
+
+@font-face {
+    font-family: "Toxico";
+    src: url("Toxico.otf");
+}
+
+@font-face {
+    font-family: "Prototype";
+    src: url("Prototype.ttf");
+}
+
+@font-face {
+    font-family: "Evogria";
+    src: url("Evogria.otf");
+}
