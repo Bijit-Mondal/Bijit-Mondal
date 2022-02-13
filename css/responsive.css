@@ -1,0 +1,276 @@
+/* Responsive Styles of Index Page */
+/* Created By Niladri Mondal */
+
+/*===================================== Header Responsive =======================================*/
+
+@media (min-width: 472px) {
+    header nav div.navbar-btn span.menu-btn i {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 5px 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    header nav a.navbar-brand img {
+        width: 38px;
+    }
+    header nav a.navbar-brand span {
+        font-size: 1.4rem;
+    }
+    header nav div.navbar-btn span.menu-btn i,
+    header nav div.navbar-btn a {
+        margin: auto 5px;
+    }
+    header nav div.navbar-btn a img {
+        width: 28px;
+        height: 28px;
+    }
+}
+
+@media (max-width: 472px) {
+    header nav div.navbar-btn span.menu-btn {
+        z-index: 2;
+    }
+    header nav div.navbar-btn {
+        margin: auto -10px;
+    }
+    header nav div.navbar-btn a {
+        margin: 5px auto;
+        opacity: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) scale(0);
+    }
+}
+
+@media (max-width: 376px) {
+    header {
+        padding: 5px;
+    }
+    header nav a.navbar-brand span {
+        display: none;
+    }
+    header nav div.navbar-btn {
+        margin-left: auto;
+    }
+}
+
+/*===================================== Banner Responsive =======================================*/
+
+@media (max-width: 1200px) {
+    div.banner-wrapper .wrapper-text span.typograph {
+        margin-left: -30px;
+    }
+}
+
+@media (max-width: 992px) {
+    div.banner-wrapper .wrapper-text span.typograph {
+        margin-left: -50px;
+    }
+    div.banner-wrapper .wrapper-text span.typograph p {
+        margin: 5px;
+        padding: 10px 0;
+        font-size: 3rem;
+        line-height: 60px;
+    }
+    div.banner-wrapper .wrapper-text span.typograph h2 {
+        font-size: 3rem;
+    }
+    div.banner-wrapper .wrapper-text span.typograph h2 span {
+        font-size: 2.5rem;
+    }
+    div.banner-wrapper .wrapper-text h4 {
+        font-size: 2rem;
+        letter-spacing: normal;
+    }
+    div.banner-wrapper .wrapper-text h4 span {
+        -webkit-text-stroke: 1.4px var(--lightyellow);
+    }
+    div.banner-wrapper .wrapper-text .link-profile a.btn-profile {
+        margin: 10px;
+        padding: 6px 18px;
+    }
+    div.banner-wrapper .wrapper-text .link-profile a.btn-profile span {
+        font-size: 1rem;
+    }
+    div.banner-wrapper .wrapper-text .link-profile a.btn-profile i {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    div.banner-wrapper {
+        margin: 100px auto 50px;
+    }
+    div.banner-wrapper .wrapper-text {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    div.banner-wrapper .wrapper-text span.typograph,
+    div.banner-wrapper .wrapper-text h4,
+    div.banner-wrapper .wrapper-text .link-profile {
+        margin: 10px auto;
+    }
+    div.banner-wrapper .wrapper-img img {
+        width: 60%;
+    }
+}
+
+@media (max-width: 440px) {
+    div.banner-wrapper {
+        margin: 50px auto;
+    }
+    div.banner-wrapper .wrapper-text span.typograph p {
+        font-size: 2.5rem;
+        line-height: 45px;
+        letter-spacing: 3px;
+    }
+    div.banner-wrapper .wrapper-text span.typograph h2 {
+        font-size: 2.5rem;
+    }
+    div.banner-wrapper .wrapper-text span.typograph h2 span {
+        font-size: 2rem;
+    }
+    div.banner-wrapper .wrapper-text h4 {
+        font-size: 1.7rem;
+    }
+    div.banner-wrapper .wrapper-text h4 span {
+        -webkit-text-stroke: 1px var(--lightyellow);
+    }
+    div.banner-wrapper .wrapper-text .link-profile a.btn-profile {
+        margin: 5px;
+        padding: 6px 14px;
+    }
+    div.banner-wrapper .wrapper-text .link-profile a.btn-profile span {
+        display: none;
+    }
+    div.banner-wrapper .wrapper-text .link-profile a.btn-profile i {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 372px) {
+    div.banner-wrapper .wrapper-text span.typograph {
+        flex-direction: column;
+    }
+    div.banner-wrapper .wrapper-text span.typograph p {
+        font-size: 2rem;
+        transform: rotate(-90deg) !important;
+    }
+    div.banner-wrapper .wrapper-text span.typograph h2 {
+        font-size: 2rem;
+        text-align: center;
+    }
+    div.banner-wrapper .wrapper-text span.typograph h2 span {
+        font-size: 1.5rem;
+    }
+    div.banner-wrapper .wrapper-text h4 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+}
+
+/*===================================== Projects Responsive =======================================*/
+
+@media (max-width: 1200px) {
+    div.projects-container .projects-wrapper {
+        padding: 20px;
+        justify-content: space-around;
+    }
+    div.projects-container .projects-wrapper .projects-cards {
+        margin: 40px;
+    }
+}
+
+@media (max-width: 992px) {
+    div.projects-container .projects-wrapper .projects-cards {
+        margin: 40px 5px;
+    }
+    div.projects-container .projects-wrapper .projects-cards img {
+        width: 48px;
+        height: 48px;
+    }
+    div.projects-container .projects-wrapper .projects-cards h4 {
+        margin: 5px auto;
+        font-size: 1.4rem;
+    }
+    div.projects-container .projects-wrapper .projects-cards p {
+        margin: 5px auto;
+        font-size: 1rem;
+    }
+    div.projects-wrapper .projects-cards span.preview-links a i {
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 768px) {
+    div.projects-container .projects-head h2 {
+        font-size: 2rem;
+    }
+    div.projects-container .projects-head img {
+        width: 48px;
+        height: 48px;
+    }
+}
+
+@media (max-width: 576px) {
+    div.projects-container .projects-wrapper {
+        padding: 20px 60px;
+        justify-content: space-around;
+    }
+    div.projects-container .projects-wrapper .projects-cards {
+        margin: 40px 30px;
+    }
+    div.projects-wrapper .projects-cards span.preview-links a i {
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    }
+}
+
+@media (max-width: 372px) {
+    div.projects-container .projects-wrapper .projects-cards h4 {
+        font-size: 1.2rem;
+    }
+    div.projects-container .projects-wrapper .projects-cards p {
+        font-size: 0.9rem;
+    }
+    div.projects-wrapper .projects-cards span.preview-links a {
+        margin: auto 5px;
+    }
+}
+
+@media (max-width: 320px) {
+    div.projects-wrapper .projects-cards span.preview-links {
+        flex-direction: column;
+    }
+    div.projects-wrapper .projects-cards span.preview-links a {
+        margin: 5px auto;
+    }
+}
+
+/*===================================== Footer Responsive =======================================*/
+
+@media (max-width: 768px) {
+    footer div.footer img {
+        width: 48px;
+        height: 48px;
+    }
+    footer div.footer h3 {
+        margin: 5px auto;
+        font-size: 1.2rem;
+        line-height: 30px;
+    }
+    footer div.footer h5 {
+        margin: 5px auto;
+        font-size: 1rem;
+    }
+}
+
+/*===================================== Responsive Styles End =======================================*/
