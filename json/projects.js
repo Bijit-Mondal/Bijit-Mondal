@@ -16,7 +16,7 @@ let projectsData = [
         name: "iLib RKMVCC",
         details: "Official Library Management System of RKMVCC",
         imgsrc: "./img/projects/icon2.png",
-        preview: "https://ilib.netlify.app/",
+        preview: "https://ilib.bijit.codes/",
         code: "https://github.com/Bijit-Mondal/iLib",
         feedback: "Feedback_on_iLib",
         icon: "bx-show",
