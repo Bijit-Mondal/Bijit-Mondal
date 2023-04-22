@@ -27,3 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijit-mondal&show_icons=true&locale=en&layout=compact" alt="bijit-mondal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijit-mondal&show_icons=true&locale=en" alt="bijit-mondal" /></p>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijit-mondal&theme=dark" alt="bijit-mondal" /></p>
+  </div>
