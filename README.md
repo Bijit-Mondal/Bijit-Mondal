@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijit-mondal" alt="bijit-mondal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.bijit.codes](https://www.bijit.codes)
+- 👨‍💻 All of my projects are available at [bijit-mondal.github.io/Bijit-Mondal/](bijit-mondal.github.io/Bijit-Mondal/)
 
 - 📫 How to reach me **You Can't >=** kidding, mail - bijitmondal567+github@googlemail.com
 
