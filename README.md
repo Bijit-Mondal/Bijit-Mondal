@@ -24,9 +24,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/bijit"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bijit" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijit-mondal&show_icons=true&locale=en&layout=compact" alt="bijit-mondal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijit-mondal&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="bijit-mondal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijit-mondal&show_icons=true&locale=en" alt="bijit-mondal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijit-mondal&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="bijit-mondal" /></p>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijit-mondal&theme=dark" alt="bijit-mondal" /></p>
