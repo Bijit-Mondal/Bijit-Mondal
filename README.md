@@ -29,6 +29,12 @@
 
 <hr/>
 
+## Projects:
+-  NeuroVerse (College Event Website) - <a href="https://neuroverse.ilib.website/">https://neuroverse.ilib.website/</a>
+-  iLib (Library Management System) - <a href="https://coms.ilib.website/">https://coms.ilib.website/</a>
+-  SpotOn (Attendance Management System) - <a href="https://spoton.ilib.website/">https://spoton.ilib.website/</a>
+-  Eureka (Tech Fest Competition Platform) - <a href="https://eureka.bijit.xyz/">https://eureka.bijit.xyz/</a>
+
 ## Github Stats:
 
 [<img align="center" src="https://github-profile-trophy.vercel.app/?username=bijit-mondal&theme=dracula" alt="bijit-mondal" />](https://github.com/Bijit-Mondal)
