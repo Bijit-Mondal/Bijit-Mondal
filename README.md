@@ -37,14 +37,11 @@
 
 ## Github Stats:
 
-[<img align="center" src="https://github-profile-trophy.vercel.app/?username=bijit-mondal&theme=dracula" alt="bijit-mondal" />](https://github.com/Bijit-Mondal)
-
-[<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=Bijit-Mondal&count_private=true&show_icons=true&theme=dracula" />](https://github.com/Bijit-Mondal)
-
 [<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Bijit-Mondal&theme=dracula" />](https://github.com/Bijit-Mondal)
 
 [<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijit-mondal&show_icons=true&locale=en&layout=compact&theme=dracula"/>](https://github.com/Bijit-Mondal)
 
 [<img align="center" width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=Bijit-Mondal&bg_color=241f31&color=9141ac&line=2ec27e&point=9e4c98&area=true&hide_border=true"/>](https://github.com/Bijit-Mondal)
 
-[<img align="center" alt="Bijit Mondal | Portfolio" src="github-contribution-grid-snake-dark.svg" />](https://bijit-mondal.github.io/Bijit-Mondal)
+<!-- [<img align="center" alt="Bijit Mondal | Portfolio" src="github-contribution-grid-snake-dark.svg" />](https://bijit-mondal.github.io/Bijit-Mondal) 
+-->
