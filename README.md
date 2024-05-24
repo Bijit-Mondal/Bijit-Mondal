@@ -1,5 +1,5 @@
 # Hi!, I'm Bijit Mondal
-# I’m a final year student and passionate developer from India 
+# I’m a bachelor's of computer science graduate and passionate developer from India 
 
 [<img align="left" src="https://komarev.com/ghpvc/?username=bijit-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="bijit-mondal" />](https://github.com/Bijit-Mondal)<br><br>
 
