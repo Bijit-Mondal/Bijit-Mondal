@@ -12,7 +12,7 @@
 
 [<img align="left" alt="Bijit Mondal | Twitter" src="./assets/icons/-twitter.svg" />](https://twitter.com/BijitMondal10)
 
-[<img align="left" alt="Bijit Mondal | Portfolio" src="./assets/icons/-portfolio.svg" />](https://bijit-mondal.github.io/Bijit-Mondal)
+[<img align="left" alt="Bijit Mondal | Portfolio" src="./assets/icons/-portfolio.svg" />](https://portfolio.bijit.xyz)
 
 <br/>
 <br/>
