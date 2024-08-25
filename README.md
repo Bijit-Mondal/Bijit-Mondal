@@ -24,6 +24,10 @@
 
 <hr/>
 
+## Technical Articles
+- Geeksforgeeks - <a href="https://www.geeksforgeeks.org/user/bijitmoni1oj/contributions/">https://www.geeksforgeeks.org/user/bijitmoni1oj/contributions/</a>
+- dev.to - <a href="https://dev.to/mkp_bijit"></a>
+
 ## Projects:
 -  Codeitup (Leetcode Clone) - <a href="https://codeitup.bijit.xyz/app">https://codeitup.bijit.xyz/app/</a>
 -  iLib (Library Management System) - <a href="https://coms.ilib.website/">https://coms.ilib.website/</a>
