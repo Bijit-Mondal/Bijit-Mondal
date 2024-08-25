@@ -17,6 +17,7 @@
 
 ## About Me:
 
+-   📫 **A Computer Science graduate from Ramakrishna Mission Vivekananda Centenary College, Rahara'24.** 
 -   🔭 **I’m currently working on Codeitup.**
 -   🌱 **I’m currently learning Kotlin Multiplatform.**
 -   🥅 **I want to Contribute more to Open Source & Projects.**
