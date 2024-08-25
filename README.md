@@ -29,7 +29,7 @@
 <hr/>
 
 ## Projects:
--  NeuroVerse (College Event Website) - <a href="https://neuroverse.ilib.website/">https://neuroverse.ilib.website/</a>
+-  Codeitup (Leetcode Clone) - <a href="https://codeitup.bijit.xyz/app">https://codeitup.bijit.xyz/app/</a>
 -  iLib (Library Management System) - <a href="https://coms.ilib.website/">https://coms.ilib.website/</a>
 -  SpotOn (Attendance Management System) - <a href="https://spoton.ilib.website/">https://spoton.ilib.website/</a>
 -  Eureka (Tech Fest Competition Platform) - <a href="https://eureka.bijit.xyz/">https://eureka.bijit.xyz/</a>
