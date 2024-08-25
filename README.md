@@ -1,5 +1,3 @@
-# Welcome to my github buddy
-
 [<img align="left" src="https://komarev.com/ghpvc/?username=bijit-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="bijit-mondal" />](https://github.com/Bijit-Mondal)<br><br>
 
 
@@ -19,11 +17,9 @@
 
 ## About Me:
 
--   👨🏻‍🎓 **Currently pursuing my B.Sc in Computer Science.**
--   🔭 **I’m currently working on SpotOn.**
--   🌱 **I’m currently learning Spring.**
--   👯 **I’m interested in Creative Projects.**
--   🥅 **I want to Contribute more to Open Source & Web projects.**
+-   🔭 **I’m currently working on Codeitup.**
+-   🌱 **I’m currently learning Kotlin Multiplatform.**
+-   🥅 **I want to Contribute more to Open Source & Projects.**
 -   📫 **Reach me at [bijitmondal567@gmail.com](mailto:bijitmondal567@gmail.com).**
 
 <hr/>
@@ -33,14 +29,3 @@
 -  iLib (Library Management System) - <a href="https://coms.ilib.website/">https://coms.ilib.website/</a>
 -  SpotOn (Attendance Management System) - <a href="https://spoton.ilib.website/">https://spoton.ilib.website/</a>
 -  Eureka (Tech Fest Competition Platform) - <a href="https://eureka.bijit.xyz/">https://eureka.bijit.xyz/</a>
-
-## Github Stats:
-
-[<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Bijit-Mondal&theme=dracula" />](https://github.com/Bijit-Mondal)
-
-[<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijit-mondal&show_icons=true&locale=en&layout=compact&theme=dracula"/>](https://github.com/Bijit-Mondal)
-
-[<img align="center" width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=Bijit-Mondal&bg_color=241f31&color=9141ac&line=2ec27e&point=9e4c98&area=true&hide_border=true"/>](https://github.com/Bijit-Mondal)
-
-<!-- [<img align="center" alt="Bijit Mondal | Portfolio" src="github-contribution-grid-snake-dark.svg" />](https://bijit-mondal.github.io/Bijit-Mondal) 
--->
