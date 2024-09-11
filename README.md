@@ -1,15 +1,11 @@
 [<img align="left" src="https://komarev.com/ghpvc/?username=bijit-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="bijit-mondal" />](https://github.com/Bijit-Mondal)<br><br>
 
 
-[<img align="left" alt="Bijit Mondal | Github" src="./assets/icons/-github.svg" />](https://github.com/Bijit-Mondal)
-
-[<img align="left" alt="Bijit Mondal | Linkedin" src="./assets/icons/-linkedin.svg" />](https://www.linkedin.com/in/bijit-mondal-3b196721b/)
-
-[<img align="left" alt="Bijit Mondal | Dev To" src="./assets/icons/-dev.svg" />](https://dev.to/mkp_bijit)
-
-[<img align="left" alt="Bijit Mondal | Twitter" src="./assets/icons/-twitter.svg" />](https://twitter.com/BijitMondal10)
-
-[<img align="left" alt="Bijit Mondal | Portfolio" src="./assets/icons/-portfolio.svg" />](https://portfolio.bijit.xyz)
+[<img alt="Bijit Mondal | Github" src="./assets/icons/-github.svg" />](https://github.com/Bijit-Mondal)
+[<img alt="Bijit Mondal | Linkedin" src="./assets/icons/-linkedin.svg" />](https://www.linkedin.com/in/bijit-mondal-3b196721b/)
+[<img alt="Bijit Mondal | Dev To" src="./assets/icons/-dev.svg" />](https://dev.to/mkp_bijit)
+[<img alt="Bijit Mondal | Twitter" src="./assets/icons/-twitter.svg" />](https://twitter.com/BijitMondal10)
+[<img alt="Bijit Mondal | Portfolio" src="./assets/icons/-portfolio.svg" />](https://portfolio.bijit.xyz)
 
 <br/>
 <br/>
