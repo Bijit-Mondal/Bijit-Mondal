@@ -12,7 +12,7 @@
 <br/>
 
 ## Hi there! I'm Bijit!
-I develop software for fun and profit using (mostly) Java, JavaScript and related stuff (Groovy, for one). 
+I develop software for fun and profit using (mostly) Java, JavaScript and related stuff (Kotlin, for one). 
 
 **Me in bullet points:**
 - Linux addict, btw I use Arch
