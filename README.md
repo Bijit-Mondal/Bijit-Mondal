@@ -8,7 +8,7 @@
 [<img alt="Bijit Mondal | Twitter" src="./assets/icons/-twitter.svg" />](https://twitter.com/BijitMondal10)
 [<img alt="Bijit Mondal | Portfolio" src="./assets/icons/-portfolio.svg" />](https://portfolio.bijit.xyz)
 
-![edebd27aaf5015034ca452375a3b0969](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif)
+<!-- ![edebd27aaf5015034ca452375a3b0969](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif) -->
 <br/>
 
 ## Hi there! I'm Bijit!
