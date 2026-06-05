@@ -1,5 +1,5 @@
-[<img align="left" src="https://komarev.com/ghpvc/?username=bijit-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="bijit-mondal" />](https://github.com/Bijit-Mondal)<br><br>
-
+<!-- [<img align="left" src="https://komarev.com/ghpvc/?username=bijit-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="bijit-mondal" />](https://github.com/Bijit-Mondal)<br><br>
+-->
 ### Want To Contact Me? 📱
 
 [<img alt="Bijit Mondal | Github" src="./assets/icons/-github.svg" />](https://github.com/Bijit-Mondal)
