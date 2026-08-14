@@ -11,9 +11,6 @@
 <!-- ![edebd27aaf5015034ca452375a3b0969](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif) -->
 <br/>
 
-## Hi there! I'm Bijit!
-I develop software for fun using (mostly) Java, JavaScript(ts) and related stuff (Kotlin, for one). 
-
 **Me in bullet points:**
 - Linux addict, btw I use Arch
 - I thrive on sleep, avoid working at night, and prefer mornings unlike most of developers. I can't function without sleep for more than 24 hours
